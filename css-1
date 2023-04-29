@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Pattaya';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/pattaya/v12/ea8ZadcqV_zkHY-XBdOt8w.ttf) format('truetype');
+}
